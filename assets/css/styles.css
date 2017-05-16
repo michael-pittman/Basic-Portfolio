@@ -80,3 +80,9 @@ body {
 	margin-right: 24px;
 	margin-bottom: 13px;
 }
+input {
+	width: 100%;
+}
+#submit {
+	width: 25%;
+}
